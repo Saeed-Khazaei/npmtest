@@ -1,0 +1,2 @@
+body{padding:0;margin:0}#root{position:relative}#root,.App{height:100vh;width:100%;display:flex;align-items:center;justify-content:center}.App{text-align:center;color:#8b949e;background:#0d1117;background:#f9f9f9}button{padding:1em 2em;outline:none;background-color:#f06;border:none;border-radius:.5em;cursor:pointer;color:#fff}nav{position:absolute;top:1em;left:1em}nav ul{width:100%;list-style:none;display:flex;flex-direction:row;align-items:center;justify-content:space-between}nav ul li a{color:#f06;text-decoration:none}
+/*# sourceMappingURL=main.6585624c.chunk.css.map */
